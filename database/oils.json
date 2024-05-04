@@ -1,0 +1,10 @@
+{ 
+    "oils": [
+    {"name":"Esme Potter", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Emlynne Tipping","origin":"North Korea","price":23.03,"volume":15.21,"id":1},
+    {"name":"Skipper Durno", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Zak Dannett","origin":"Philippines","price":94.25,"volume":5.54,"id":2},
+    {"name":"Genvieve Doige", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Briggs Aylward","origin":"Paraguay","price":64.8,"volume":29.95,"id":3},
+    {"name":"Alford Bacon", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Early Pittford","origin":"Philippines","price":83.68,"volume":13.96,"id":4},
+    {"name":"Johna Baumler", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Evangeline Splain","origin":"Croatia","price":74.13,"volume":6.69,"id":5},
+    {"name":"Bryon Leverson", "image":"https://img.freepik.com/free-photo/arrangement-serum-bottle-plant_23-2148899393.jpg?t=st=1713998340~exp=1714001940~hmac=aa7048195ad8941197d57b289c61799b70c57d6bca40a5550a1f8e473c468065&w=740", "botanical_name":"Dorian Eddow","origin":"Indonesia","price":70.3,"volume":27.58,"id":6}
+    ]
+}
